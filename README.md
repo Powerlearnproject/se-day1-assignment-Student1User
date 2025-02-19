@@ -4,7 +4,7 @@ Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
 
-Explain what software engineering is and discuss its importance in the technology industry.
+1. Explain what software engineering is and discuss its importance in the technology industry.
 
 Software engineering is basically the process of designing, developing, testing, and maintaining software in a structured and efficient way. It’s not just about coding—it’s about applying engineering principles to make sure software is reliable, scalable, and meets user needs. Think of it like building a house: you don’t just start laying bricks randomly; you need blueprints, a strong foundation, and a plan to make sure everything works properly.  
 
@@ -13,7 +13,7 @@ Now, why is software engineering important in the tech industry? Well, almost ev
 In short, software engineering is what keeps the digital world running efficiently and safely. It’s the backbone of innovation, allowing businesses to create better products and services while improving everyday life for people.
 
 
-Identify and describe at least three key milestones in the evolution of software engineering.
+2. Identify and describe at least three key milestones in the evolution of software engineering.
 
 
 Software engineering has come a long way, and there have been some major milestones that shaped how we develop software today. Here are three key ones:  
@@ -30,7 +30,7 @@ By the late 20th century, traditional software development methods (like the Wat
 These milestones shaped the way we build software today, making it more structured, efficient, and user-friendly. And with advancements like AI and cloud computing, software engineering continues to evolve at an incredible pace.
 
 
-List and briefly explain the phases of the Software Development Life Cycle.
+3. List and briefly explain the phases of the Software Development Life Cycle.
 
 The **Software Development Life Cycle (SDLC)** is a structured process used to design, develop, test, and deploy software efficiently. It consists of several key phases:  
 
@@ -58,7 +58,7 @@ Even after release, software needs ongoing maintenance to fix bugs, improve perf
 Each of these phases plays a crucial role in delivering high-quality software, and different development models (like Agile or Waterfall) adjust how these phases are carried out.
 
 
-Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+4. Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
 ### **Waterfall vs. Agile: A Comparison**  
 
@@ -91,7 +91,7 @@ Waterfall projects often take longer because everything is planned and executed 
 Both methodologies have their place—Waterfall works best for structured, high-stability projects, while Agile excels in fast-paced, user-driven environments.
 
 
-Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+5. Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
 ### **Roles and Responsibilities in a Software Engineering Team**  
 
@@ -132,7 +132,7 @@ The PM ensures the project is delivered on time, within budget, and meets busine
 Together, these roles work as a team—developers build, QA engineers test, and project managers keep everything running smoothly.
 
 
-Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+6. Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
 Integrated Development Environments (IDEs) and Version Control Systems (VCS) are absolute game-changers in software development. I honestly can’t imagine working without them—they make coding more efficient, organized, and way less stressful.  
 
@@ -150,7 +150,7 @@ For example, **Git** (especially when combined with **GitHub, GitLab, or Bitbuck
 IDEs make coding **faster and more efficient**, while VCS ensures that work is **safe, organized, and easy to collaborate on**. Without them, development would be chaotic—imagine writing code in a plain text editor with no autocomplete and manually saving versions of files. That would be a nightmare! These tools are a must for any serious developer.
 
 
-What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+7. What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
 Software engineering is awesome, but it definitely comes with its fair share of challenges. I’ve run into a few of these myself, and I’ve learned that the best way to handle them is with the right mindset and strategies. Here are some of the most common challenges and how to tackle them:  
 
@@ -212,7 +212,7 @@ Software engineering is rarely a solo job. Miscommunication, conflicting opinion
 At the end of the day, software engineering is about problem-solving. The key is to stay adaptable, keep learning, and use smart strategies to tackle challenges head-on.
 
 
-Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+8. Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
 Testing is a crucial part of software development—it ensures that everything works as expected and helps catch issues before they reach users. There are several types of testing, each focusing on different aspects of software quality. Here’s how they work and why they matter:  
 
@@ -271,7 +271,7 @@ Without thorough testing, software can be buggy, unreliable, and frustrating for
 #Part 2: Introduction to AI and Prompt Engineering
 
 
-Define prompt engineering and discuss its importance in interacting with AI models.
+1. Define prompt engineering and discuss its importance in interacting with AI models.
 
 Prompt engineering is basically the art and science of crafting effective prompts to get the best possible responses from AI models. I’ve realized that the way I phrase a question or request can completely change the quality of the response I get. It’s all about understanding how AI processes language and optimizing my input to guide it toward the desired output.  
 
@@ -294,7 +294,7 @@ Prompt engineering is crucial in AI applications like:
 As AI becomes more integrated into everyday life, mastering prompt engineering helps me interact with these systems more effectively, making them powerful tools rather than just interesting gadgets.
 
 
-Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+2. Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
 I’ve learned that the way I structure a prompt can make a huge difference in the quality of the AI’s response. A vague prompt can lead to generic or incomplete answers, while a well-structured one gets me exactly what I need.  
 
