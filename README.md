@@ -280,7 +280,7 @@ AI models, like ChatGPT, don’t “think” the way humans do—they generate r
 
 For example, if I simply ask:  
 👉 **“Tell me about climate change.”**  
-I’ll get a general overview. But if I refine it:  
+I’ll get a general overview. But if I refine it:      
 👉 **“Explain the impact of climate change on coastal cities and suggest three possible solutions.”**  
 Now, I’ll get a much more focused and detailed response.  
 
